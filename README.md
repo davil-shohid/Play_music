@@ -10,6 +10,8 @@ pkg install python
 
 pkg install play-audio
 
+pkg install sox
+
 pkg install git
 
 git clone https://github.com/skshohid/Play_music
