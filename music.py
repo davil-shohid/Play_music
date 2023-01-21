@@ -63,3 +63,5 @@ print ('''
 \033[96;1m╚═══════════════════════╝\033[0m
 ''')
 os.system('play-audio Nachange.p')
+
+os.system('https://www.facebook.com/skshohids0337')
