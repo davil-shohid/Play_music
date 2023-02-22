@@ -26,7 +26,7 @@ python music.py
 
 
 
-# My [weebiy](https://skofficiall.weebly.com)
+# My [weebly](https://skofficiall.weebly.com)
 # My [Facebook Page](https://web.facebook.com/skshohids0337)
 # My [Telegarm](https://t.me/skofficialltm)
 # My [WhatsApp](https://chat.whatsapp.com/KuRAdn1XDbgGW8SDT2K2Hg)
