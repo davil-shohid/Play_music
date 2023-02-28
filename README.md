@@ -15,6 +15,7 @@ pkg install python
 
 pkg install play-audio
 
+pkg install figlet
 pkg install sox
 
 pkg install git
